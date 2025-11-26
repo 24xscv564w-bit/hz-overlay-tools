@@ -8,11 +8,21 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
 - Positions overlay near bottom-right (configurable in script).
 - Minimal dependencies (uses Tkinter and Python stdlib).
 
-## Files
-- `hz_overlay.py` — main overlay script (scrubbed for release).
-- `README.md` — this file.
-- `LICENSE` — MIT license.
-- `RELEASE.md` — suggested GitHub release notes.
+## 📁 Included Files
+### Core Files
+- **`hz_overlay.py`** — primary overlay script (scrubbed for release)  
+- **`README.md`** — project documentation  
+- **`LICENSE`** — MIT license  
+- **`RELEASE.md`** — suggested GitHub release notes  
+- **`BUILD_EXE.md`** — instructions for building a standalone EXE with PyInstaller  
+### Helper Tools
+- **`Start_Hz_Overlay.bat`** — launches the overlay  
+- **`Start_Hz_Overlay - Shortcut.lnk`** — Windows shortcut for easy autostart  
+- **`ToggleHZ.ahk`** — AutoHotkey script for toggling 120 Hz ↔ 144 Hz  
+- **`ToggleHZ.bat`** — Batch version of the refresh-rate toggle  
+### Media
+- **`Screenshot.png`** — still image of the overlay in action  
+- **`hz_overlay_in_action.mov`** — short demonstration video  
 
 ## Usage
 1. Ensure Python 3.8+ is installed on Windows.
