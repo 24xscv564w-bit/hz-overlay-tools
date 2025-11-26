@@ -31,7 +31,6 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
 Example of 144Hz detection (bottom-right overlay)
 
 ![Overlay Screenshot](Screenshot_144.png)
-
 ## 🖼 Icon previews
 
 Preview of the 2K resolution toggle icons included in the release.
@@ -44,6 +43,15 @@ Preview of the 2K resolution toggle icons included in the release.
 <p align="center">
   <strong>2K1600</strong> — `Toggle2k16.exe` &nbsp;&nbsp; | &nbsp;&nbsp; <strong>2K1440</strong> — `Toggle2k.exe`
 </p>
+
+**Icon files included**
+- `assets/icons/2k1600.ico` — multi-resolution ICO (256/128/64/32/16)
+- `assets/icons/2k1440.ico` — multi-resolution ICO (256/128/64/32/16)
+
+> Recommended display sizes: 256×256 for store previews, 64×64 or 32×32 for UI icons.  
+> The PNG previews above are square with rounded corners for a clean look on GitHub.
+
+
 ## Usage
 1. Ensure Python 3.8+ is installed on Windows.
 2. Run with console: `python hz_overlay.py --alpha 0.3`  
