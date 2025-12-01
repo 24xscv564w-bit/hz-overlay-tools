@@ -8,7 +8,7 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
 
  > - **Start_Hz_Overlay.bat** *Edit path* [⬇️ Download] https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Start_Hz_Overlay.bat
  
- > - Start_Hz_Overlay Shortcut (.lnk) **Download from repository above**
+ > - Start_Hz_Overlay Shortcut (.lnk) ** (https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Start_Hz_Overlay%20-%20Shortcut.lnk) **
 
 
 ---
