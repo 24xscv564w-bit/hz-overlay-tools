@@ -2,8 +2,7 @@
 Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144Hz) and bit-depth hints.
 
 ## Main tools
- **hz_overlay.py**  [⬇️]<a id="raw-url" href="https://github.com/username/repo/raw/main/hz_overlay.py" download>Download</a>
-<!-- or -->
+ **hz_overlay.py**  [⬇️] https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/hz_overlay.py
 <a id="raw-url" href="https://github.com/username/repo/blob/main/hz_overlay.py?raw=1" download>Download</a>
 
 
