@@ -75,7 +75,7 @@ This overlay gives an instant, automatic notification whenever
 your refresh rate changes.
 
 ## AI part
-Human Tweaked AI code
+Human tweaked AI code
 
 ## Building an EXE
 See included `BUILD_EXE.md` in the original release for PyInstaller guidance.
