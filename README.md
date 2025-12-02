@@ -63,7 +63,7 @@ Preview of the QHD <-> FHD toggles
 1. Ensure Python 3.8+ is installed on Windows.
 2. Run with console: `python hz_overlay.py --alpha 0.3`  
    Or run without console: click the file
-3. Click `Stay_Overlay.py - Alaways on overlay plain and transparent.
+3. Click Stay_Overlay.py - Alaways on overlay plain and transparent.
 4. Install Qres for AHK, Install Auto Hot Key
 5. Add Start_Hz_Overlay - Shortcut.lnk to shell:startup (set run to minizmized in properties) 
 6. Add ToggleHZ.ahk.ahk to shell:startup for easy CTRL + ALT + H  hertz toggle or set to custom
