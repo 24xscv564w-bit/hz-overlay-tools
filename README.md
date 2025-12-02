@@ -5,7 +5,7 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
  **hz_overlay.py**  [⬇️] https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/hz_overlay.py
 <a id="raw-url" href="https://github.com/username/repo/blob/main/hz_overlay.py?raw=1" download>Download</a>
 
-
+ > - AHK toggle https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/ToggleHZ.ahk.ahk 
  > - **Start_Hz_Overlay.bat** *Edit path* [⬇️ Download] https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Start_Hz_Overlay.bat
  
  > - Start_Hz_Overlay Shortcut (.lnk) ** (https://github.com/24xscv564w-bit/hz-overlay-tools/blob/main/Start_Hz_Overlay%20-%20Shortcut.lnk) **
