@@ -46,7 +46,7 @@ Lightweight Windows overlay to indicate monitor refresh rate changes (120Hz/144H
 ## Preview
 Example of 144Hz detection (bottom-right overlay)
 
-![Overlay Screenshot](Screenshot_144.png)
+![Overlay Screenshot](Screenshot_144.png) ![Overlay Screenshot](Screenshot_Transparent144hz.png) 
 ## 🖼 Resolution toggles
 
 Preview of the QHD <-> FHD toggles
