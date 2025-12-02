@@ -1,7 +1,7 @@
 # hz-overlay
 Lightweight Windows overlay to indicate monitor refresh rate. The overlays alone under 15kb, total repo 18.5mb
 ## Overlay Preview
-Example of 144Hz detection (bottom-right overlay)
+Example of 144Hz detection (**`hz_overlay.py`** and **`Stay_Overlay.py`**)
 
 ![Overlay Screenshot](Screenshot_144.png) ![Overlay Screenshot](Screenshot_Transparent144hz.png) 
 
