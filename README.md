@@ -28,8 +28,9 @@ Clean Hz detection (**`hz_overlay.py`** and **`Stay_Overlay.py`**)
 
 ## Features
 - Detects display refresh rate using Win32 API.
-- Displays 120Hz as an animated rainbow text with a subtle nudge animation.
-- Displays 144Hz as red, italicized text with a glow effect.
+- Stay_Overlay displays all refresh-rates plainly and cleanly
+- hz_overlay Displays 120Hz as an animated rainbow text with a subtle nudge animation.
+- hz_overlay Displays 144Hz as red, italicized text with a glow effect.
 - Positions overlay near bottom-right (configurable in script).
 - Minimal dependencies (uses Tkinter and Python stdlib).
 
